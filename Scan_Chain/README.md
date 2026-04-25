@@ -1,4 +1,4 @@
-# Q5 – 4-bit Scan Chain (Open-Ended Problem)
+# 4-bit Scan Chain (Open-Ended Problem)
 
 ## Aim
 Design and simulate a 4-bit scan chain using Verilog HDL, demonstrating both normal (parallel) and scan (serial) modes for Design-for-Testability (DFT) verification.
