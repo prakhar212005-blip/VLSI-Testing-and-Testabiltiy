@@ -1,4 +1,4 @@
-# Q1 – Good and Faulty Behavior: 3-input NAND & NOR Gate
+# Good and Faulty Behavior: 3-input NAND & NOR Gate
 
 ## Aim
 Simulate good (fault-free) and faulty (stuck-at fault) behavior of 3-input NAND and NOR logic gates using EDA tools.
