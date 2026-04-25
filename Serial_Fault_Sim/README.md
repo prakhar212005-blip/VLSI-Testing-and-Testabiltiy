@@ -1,4 +1,4 @@
-# Q3 – Serial Fault Simulation Procedure
+# Serial Fault Simulation Procedure
 
 ## Aim
 Simulate a serial fault simulation procedure for a combinational circuit `Y = (A & B) | C` using Verilog and an EDA simulator. Detect stuck-at faults by injecting them one at a time and report detected/undetected faults.
