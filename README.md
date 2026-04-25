@@ -4,9 +4,9 @@
 
 ---
 
-## 📋 Assignment Overview
+## 📋 Overview
 
-This repository contains Verilog HDL simulations for IA-4 (Internal Assessment 4) covering **VLSI Testing and Testability (VTT)** concepts including fault modeling, fault simulation, LFSR sequence generation, and scan-based Design-for-Testability (DFT).
+This repository contains Verilog HDL simulations covering **VLSI Testing and Testability (VTT)** concepts including fault modeling, fault simulation, LFSR sequence generation, and scan-based Design-for-Testability (DFT).
 
 All simulations are designed to run on **[EDA Playground](https://www.edaplayground.com)** using **Icarus Verilog 10.3** with **EPWave** for waveform viewing.
 
