@@ -1,4 +1,4 @@
-# Q2 – Open pMOS Drain & Grounded nMOS Gate Fault Simulation
+# Open pMOS Drain & Grounded nMOS Gate Fault Simulation
 
 ## Aim
 Simulate and analyze the behavior of a CMOS inverter under two transistor-level faults using EDA tools.
