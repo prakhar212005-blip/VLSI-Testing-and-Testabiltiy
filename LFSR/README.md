@@ -1,4 +1,4 @@
-# Q4 – 3-bit LFSR Sequence Generation
+# 3-bit LFSR Sequence Generation
 
 ## Aim
 Implement and simulate a 3-bit Linear Feedback Shift Register (LFSR) using Verilog for polynomial P(x) = 1 + x² + x³ and observe the generated maximal-length sequence.
